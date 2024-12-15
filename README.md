@@ -1,4 +1,5 @@
-![img-prueba2](https://github.com/user-attachments/assets/841acc53-0998-434d-8f3c-8e5e1774bee8)
+![![presentación](https://github.com/user-attachments/assets/2deca761-4e0a-4224-ac14-06a4fd86fde1)
+]
 
 
 # ¡Hola! Mi nombre es Sofía De Alessandre 🚀

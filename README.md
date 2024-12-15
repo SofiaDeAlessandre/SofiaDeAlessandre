@@ -1,5 +1,5 @@
-![![presentación](https://github.com/user-attachments/assets/eefdd4fe-6db2-496f-a85a-82386ac40f6d)
-]
+![presentación](https://github.com/user-attachments/assets/eefdd4fe-6db2-496f-a85a-82386ac40f6d)
+
 
 
 

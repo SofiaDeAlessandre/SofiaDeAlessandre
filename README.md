@@ -1,3 +1,6 @@
+![img-prueba2](https://github.com/user-attachments/assets/841acc53-0998-434d-8f3c-8e5e1774bee8)
+
+
 # ¡Hola! Mi nombre es Sofía De Alessandre 🚀
 
 ## Soy desarrolladora Frontend egresada de la carrera de ADA ITW y actualmente me encuentro estudiando Full Stack Engineer en Educación IT.
@@ -12,4 +15,4 @@
 - LinkedIn: https://www.linkedin.com/in/sofia-de-alessandre/
 
   
-  ![img-prueba2](https://github.com/user-attachments/assets/841acc53-0998-434d-8f3c-8e5e1774bee8)
+  

@@ -10,7 +10,7 @@
 ✨Aquí podrás encontrar algunos de mis trabajos realizados a lo largo de este desafiante y maravilloso recorrido como Desarrolladora Web
 
 ## 💻 Tecnologías 
-- JavaScript, HTML, CSS, React, Tailwind, Material UI, APIs, Git
+- JavaScript, HTML, CSS, React, Tailwind, Material UI, APIs, Git, Node.js, MongoDB.
 
 ## 📩 Contacto
 - Correo: dealessandresofia@gmail.com

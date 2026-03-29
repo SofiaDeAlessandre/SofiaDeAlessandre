@@ -5,7 +5,7 @@
 
 # ¡Hola! Mi nombre es Sofía De Alessandre 🚀
 
-## Soy desarrolladora Frontend egresada de la carrera de ADA ITW y actualmente me encuentro estudiando Full Stack Engineer en Educación IT.
+## Soy desarrolladora Full Stack con enfoque en Front End egresada de Full Stack Engineer en Educación IT y carrera de Front End en ADA ITW, actualmente me encuentro estudiando Back End Developer en UTN BA.
 
 ✨Aquí podrás encontrar algunos de mis trabajos realizados a lo largo de este desafiante y maravilloso recorrido como Desarrolladora Web
 

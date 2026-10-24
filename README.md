@@ -5,15 +5,15 @@
 
 # ¡Hola! Mi nombre es Sofía De Alessandre 🚀
 
-## Soy desarrolladora Full Stack con enfoque en Front End egresada como Full Stack Engineer en Educación IT y carrera de Front End en ADA ITW, actualmente me encuentro estudiando Back End Developer en UTN BA.
+## Soy desarrolladora Full Stack con enfoque en Front End egresada como Full Stack Developer de la diplomatura en UTN BA y carrera de Front End en ADA ITW.
 
 ✨Aquí podrás encontrar algunos de mis trabajos realizados a lo largo de este desafiante y maravilloso recorrido como Desarrolladora Web
 
 ## 💻 Tecnologías 
-- JavaScript, HTML, CSS, React, Tailwind, Material UI, APIs, Git, Node.js, MongoDB.
+- JavaScript, Node.js, React, CSS, HTML, Tailwind, Material UI, APIs, Git, MongoDB.
 
 ## 📩 Contacto
-- Correo: dealessandresofia@gmail.com
+- Correo: sofia.dealessandre@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/sofia-de-alessandre/
 
   
